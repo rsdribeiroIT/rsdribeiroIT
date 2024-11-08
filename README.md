@@ -1,4 +1,4 @@
-👋 Hello! I’m Tim (aka Ricardo Ribeiro on Upwork)
+👋 Hello
 I'm a full-stack web developer with over 6 years of experience creating robust, user-friendly PHP-based applications. 
 I specialize in Symfony, WordPress, WooCommerce, Joomla, and Prestashop, and I’ve developed over 30 projects.
 
