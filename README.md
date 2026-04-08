@@ -1,5 +1,5 @@
 # 💫 About Me:
-I specialize in PHP, Symfony/Laravel, and CMS/E-commerce platforms like WordPress, PrestaShop, and Sylius. I'm passionate about assisting e-commerce businesses of all kinds with their needs.
+I specialize in PHP, Symfony/Laravel, and CMS platforms like WordPress. I'm passionate about assisting e-commerce businesses of all kinds with their needs.
 
 My expertise lies in:
 
