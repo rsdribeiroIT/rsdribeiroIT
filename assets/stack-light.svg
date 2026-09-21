@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="326" viewBox="0 0 900 326" role="img" aria-label="Tools and platforms Ricardo builds with">
+  <title>Tools and platforms Ricardo builds with</title>
+  <rect x="1" y="1" width="898" height="324" rx="18" fill="#F7FAF9" stroke="#E2E8F0"/>
+  <text x="28" y="56" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2C3E50">Backend</text>
+  <rect x="235.68" y="26" width="88.83" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="252.68" cy="49.0" r="4" fill="#14706B"/>
+  <text x="265.68" y="56" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">PHP 8</text>
+  <rect x="336.51" y="26" width="108.29" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="353.51" cy="49.0" r="4" fill="#14706B"/>
+  <text x="366.51" y="56" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Symfony</text>
+  <rect x="456.80" y="26" width="95.90" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="473.80" cy="49.0" r="4" fill="#14706B"/>
+  <text x="486.80" y="56" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Laravel</text>
+  <rect x="564.70" y="26" width="107.19" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="581.70" cy="49.0" r="4" fill="#14706B"/>
+  <text x="594.70" y="56" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Doctrine</text>
+  <rect x="683.89" y="26" width="116.13" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="700.89" cy="49.0" r="4" fill="#14706B"/>
+  <text x="713.89" y="56" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">REST APIs</text>
+  <text x="28" y="132" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2C3E50">Frontend</text>
+  <rect x="235.68" y="102" width="87.56" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="252.68" cy="125.0" r="4" fill="#14706B"/>
+  <text x="265.68" y="132" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Vue 3</text>
+  <rect x="335.24" y="102" width="120.10" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="352.24" cy="125.0" r="4" fill="#14706B"/>
+  <text x="365.24" y="132" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">TypeScript</text>
+  <rect x="467.34" y="102" width="103.11" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="484.34" cy="125.0" r="4" fill="#14706B"/>
+  <text x="497.34" y="132" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Tailwind</text>
+  <rect x="582.44" y="102" width="76.61" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="599.44" cy="125.0" r="4" fill="#14706B"/>
+  <text x="612.44" y="132" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Sass</text>
+  <rect x="671.06" y="102" width="76.00" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="688.06" cy="125.0" r="4" fill="#14706B"/>
+  <text x="701.06" y="132" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Vite</text>
+  <text x="28" y="208" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2C3E50">CMS and commerce</text>
+  <rect x="235.68" y="178" width="123.17" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="252.68" cy="201.0" r="4" fill="#14706B"/>
+  <text x="265.68" y="208" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">WordPress</text>
+  <rect x="370.85" y="178" width="158.22" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="387.85" cy="201.0" r="4" fill="#14706B"/>
+  <text x="400.85" y="208" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">WooCommerce</text>
+  <rect x="541.07" y="178" width="119.65" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="558.07" cy="201.0" r="4" fill="#14706B"/>
+  <text x="571.07" y="208" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Elementor</text>
+  <rect x="672.71" y="178" width="157.88" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="689.71" cy="201.0" r="4" fill="#14706B"/>
+  <text x="702.71" y="208" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Custom themes</text>
+  <text x="28" y="284" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2C3E50">Data and delivery</text>
+  <rect x="235.68" y="254" width="97.85" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="252.68" cy="277.0" r="4" fill="#14706B"/>
+  <text x="265.68" y="284" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">MySQL</text>
+  <rect x="345.52" y="254" width="84.04" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="362.52" cy="277.0" r="4" fill="#14706B"/>
+  <text x="375.52" y="284" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Redis</text>
+  <rect x="441.56" y="254" width="97.34" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="458.56" cy="277.0" r="4" fill="#14706B"/>
+  <text x="471.56" y="284" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Docker</text>
+  <rect x="550.90" y="254" width="88.31" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="567.90" cy="277.0" r="4" fill="#14706B"/>
+  <text x="580.90" y="284" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">Nginx</text>
+  <rect x="651.21" y="254" width="154.05" height="46" rx="23.0" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="668.21" cy="277.0" r="4" fill="#14706B"/>
+  <text x="681.21" y="284" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#334155">GitHub Actions</text>
+</svg>

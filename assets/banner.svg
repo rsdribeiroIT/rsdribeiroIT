@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Ricardo Ribeiro, Symfony and Vue web developer in Faro, Portugal">
+  <title>Ricardo Ribeiro, Symfony and Vue web developer in Faro, Portugal</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F2A38"/>
+      <stop offset="1" stop-color="#2C3E50"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#40E0D0"/>
+      <stop offset="1" stop-color="#14706B"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#40E0D0"/>
+      <stop offset="1" stop-color="#40E0D0" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect x="0" y="0" width="1280" height="360" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect x="0" y="0" width="9" height="360" fill="url(#edge)"/>
+    <circle cx="1176" cy="88" r="196" fill="#40E0D0" opacity="0.07"/>
+    <circle cx="1232" cy="322" r="124" fill="#40E0D0" opacity="0.05"/>
+
+    <text x="92" y="128" font-family="DM Serif Display, Georgia, 'Times New Roman', serif" font-size="70" fill="#FFFFFF">Ricardo Ribeiro</text>
+    <text x="95" y="180" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="25" fill="#40E0D0" letter-spacing="1.4">Symfony and Vue web developer</text>
+
+    <rect x="95" y="214" width="470" height="3" rx="1.5" fill="url(#rule)"/>
+
+    <text x="95" y="262" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" fill="#C5E8F4">Web apps, e-commerce and the automation in between.</text>
+    <text x="95" y="298" font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" fill="#94A3B8">Faro, Portugal. Open to remote work.</text>
+
+    <g font-family="DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
+      <rect x="974.3" y="122" width="105.7" height="38" rx="19" fill="#40E0D0"/>
+      <text x="1027.1" y="146" text-anchor="middle" fill="#1F2A38">Symfony</text>
+      <rect x="1092.0" y="122" width="96.0" height="38" rx="19" fill="#E9F7EF"/>
+      <text x="1140.0" y="146" text-anchor="middle" fill="#14706B">Vue</text>
+      <rect x="956.9" y="176" width="123.1" height="38" rx="19" fill="#E9F7EF"/>
+      <text x="1018.5" y="200" text-anchor="middle" fill="#14706B">WordPress</text>
+      <rect x="1092.0" y="176" width="96.0" height="38" rx="19" fill="#C5E8F4"/>
+      <text x="1140.0" y="200" text-anchor="middle" fill="#1F2A38">MySQL</text>
+    </g>
+  </g>
+</svg>

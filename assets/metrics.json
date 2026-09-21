@@ -1,0 +1,32 @@
+{
+  "font": "DM Sans, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
+  "widths": {
+    "Backend|16|700": 63.602,
+    "CMS and commerce|16|700": 149.703,
+    "Custom themes|15|400": 103.594,
+    "Data and delivery|16|700": 133.102,
+    "Docker|15|400": 47.536,
+    "Doctrine|15|400": 56.655,
+    "Elementor|15|400": 68.19,
+    "Frontend|16|700": 68.586,
+    "GitHub Actions|15|400": 100.047,
+    "Laravel|15|400": 46.203,
+    "MySQL|15|400": 48.005,
+    "MySQL|16|700": 54.023,
+    "Nginx|15|400": 39.175,
+    "PHP 8|15|400": 39.656,
+    "REST APIs|15|400": 64.938,
+    "Redis|15|400": 35.219,
+    "Sass|15|400": 28.344,
+    "Symfony|15|400": 57.68,
+    "Symfony|16|700": 66.43,
+    "Tailwind|15|400": 52.875,
+    "TypeScript|15|400": 68.609,
+    "Vite|15|400": 27.032,
+    "Vue 3|15|400": 38.484,
+    "Vue|16|700": 29.922,
+    "WooCommerce|15|400": 103.907,
+    "WordPress|15|400": 71.453,
+    "WordPress|16|700": 82.469
+  }
+}
